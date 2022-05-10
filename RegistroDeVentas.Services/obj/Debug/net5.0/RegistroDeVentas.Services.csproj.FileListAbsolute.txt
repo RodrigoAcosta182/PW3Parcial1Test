@@ -1,0 +1,15 @@
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Services.deps.json
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Services.dll
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Services.pdb
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Entities.dll
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Entities.pdb
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.csproj.AssemblyReference.cache
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.AssemblyInfoInputs.cache
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.AssemblyInfo.cs
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.csproj.CoreCompileInputs.cache
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.csproj.CopyComplete
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.dll
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\refint\RegistroDeVentas.Services.dll
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.pdb
+C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\ref\RegistroDeVentas.Services.dll
