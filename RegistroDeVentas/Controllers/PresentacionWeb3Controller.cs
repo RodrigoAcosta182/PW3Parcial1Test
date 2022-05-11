@@ -25,7 +25,14 @@ namespace RegistroDeVentas.Controllers
         [HttpPost]
         public IActionResult RegistrarVenta(VentasViewModel ventaNueva)
         {
-            _ventasServices.Registrar(ventaNueva);
+            if (ModelState.IsValid)
+            {
+                ventaNueva.Total = (ventaNueva.CantidadVendida * ventaNueva.PrecioUnitario) * 1.21;
+                _ventasServices.Registrar(ventaNueva);
+
+                return RedirectToAction(nameof(VerResultado));
+            }
+
             return View();
         }
 

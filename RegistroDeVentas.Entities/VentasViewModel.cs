@@ -18,7 +18,8 @@ namespace RegistroDeVentas.Entities
         public int CantidadVendida { get; set; }
 
         [Required(ErrorMessage = "El campo CantidadVendida es requerido")]
-        // validacion custom para tomorrow
-        public decimal PrecioUnitario { get; set; }
+        public double PrecioUnitario { get; set; }
+
+        public double Total { get; set; }
     }
 }

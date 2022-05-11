@@ -93,30 +93,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UNLAM\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\emior\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion WEB 3\\ParcialTest\\RegistroDeVentas.Services\\RegistroDeVentas.Services.csproj",
+      "projectUniqueName": "C:\\Proyectos\\WEB 3\\PW3Parcial1Test\\RegistroDeVentas.Services\\RegistroDeVentas.Services.csproj",
       "projectName": "RegistroDeVentas.Services",
-      "projectPath": "C:\\Programacion WEB 3\\ParcialTest\\RegistroDeVentas.Services\\RegistroDeVentas.Services.csproj",
-      "packagesPath": "C:\\Users\\UNLAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacion WEB 3\\ParcialTest\\RegistroDeVentas.Services\\obj\\",
+      "projectPath": "C:\\Proyectos\\WEB 3\\PW3Parcial1Test\\RegistroDeVentas.Services\\RegistroDeVentas.Services.csproj",
+      "packagesPath": "C:\\Users\\emior\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\WEB 3\\PW3Parcial1Test\\RegistroDeVentas.Services\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\UNLAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\emior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -129,8 +119,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Programacion WEB 3\\ParcialTest\\RegistroDeVentas.Entities\\RegistroDeVentas.Entities.csproj": {
-              "projectPath": "C:\\Programacion WEB 3\\ParcialTest\\RegistroDeVentas.Entities\\RegistroDeVentas.Entities.csproj"
+            "C:\\Proyectos\\WEB 3\\PW3Parcial1Test\\RegistroDeVentas.Entities\\RegistroDeVentas.Entities.csproj": {
+              "projectPath": "C:\\Proyectos\\WEB 3\\PW3Parcial1Test\\RegistroDeVentas.Entities\\RegistroDeVentas.Entities.csproj"
             }
           }
         }

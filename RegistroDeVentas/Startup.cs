@@ -52,7 +52,7 @@ namespace RegistroDeVentas
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=PresentacionWeb3}/{action=Bienvenidxs}/{id?}");
             });
         }
     }

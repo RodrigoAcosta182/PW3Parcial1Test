@@ -13,3 +13,18 @@ C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\Reg
 C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\refint\RegistroDeVentas.Services.dll
 C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.pdb
 C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Services\obj\Debug\net5.0\ref\RegistroDeVentas.Services.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Services.deps.json
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Services.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Services.pdb
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Entities.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\bin\Debug\net5.0\RegistroDeVentas.Entities.pdb
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.csproj.AssemblyReference.cache
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.AssemblyInfoInputs.cache
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.AssemblyInfo.cs
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.csproj.CoreCompileInputs.cache
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.csproj.CopyComplete
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\refint\RegistroDeVentas.Services.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\RegistroDeVentas.Services.pdb
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Services\obj\Debug\net5.0\ref\RegistroDeVentas.Services.dll

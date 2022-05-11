@@ -10,9 +10,9 @@ namespace RegistroDeVentas.Entities
     {
         public List<VentasViewModel> _ventas = new List<VentasViewModel>()
         {
-            new VentasViewModel(){Cliente = "El Polaco", CantidadVendida = 100, PrecioUnitario = 10},
-            new VentasViewModel(){Cliente = "El Traidor", CantidadVendida = 200, PrecioUnitario = 10},
-            new VentasViewModel(){Cliente = "Pablito Lescano", CantidadVendida = 300, PrecioUnitario = 10},
+            new VentasViewModel(){Cliente = "El Polaco", CantidadVendida = 100, PrecioUnitario = 10, Total = 1210},
+            new VentasViewModel(){Cliente = "El Traidor", CantidadVendida = 200, PrecioUnitario = 10, Total = 2420},
+            new VentasViewModel(){Cliente = "Pablito Lescano", CantidadVendida = 300, PrecioUnitario = 10, Total = 3630},
         };
 
         public List<VentasViewModel> getVentas()

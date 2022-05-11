@@ -10,3 +10,15 @@ C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Entities\obj\Debug\net5.0\Reg
 C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Entities\obj\Debug\net5.0\refint\RegistroDeVentas.Entities.dll
 C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.pdb
 C:\Programacion WEB 3\ParcialTest\RegistroDeVentas.Entities\obj\Debug\net5.0\ref\RegistroDeVentas.Entities.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\bin\Debug\net5.0\RegistroDeVentas.Entities.deps.json
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\bin\Debug\net5.0\RegistroDeVentas.Entities.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\bin\Debug\net5.0\RegistroDeVentas.Entities.pdb
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.csproj.AssemblyReference.cache
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.AssemblyInfo.cs
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\refint\RegistroDeVentas.Entities.dll
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\RegistroDeVentas.Entities.pdb
+C:\Proyectos\WEB 3\PW3Parcial1Test\RegistroDeVentas.Entities\obj\Debug\net5.0\ref\RegistroDeVentas.Entities.dll
