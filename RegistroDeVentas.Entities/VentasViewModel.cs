@@ -18,6 +18,7 @@ namespace RegistroDeVentas.Entities
         public int CantidadVendida { get; set; }
 
         [Required(ErrorMessage = "El campo CantidadVendida es requerido")]
+        [Range(10, 999, ErrorMessage = "La CantidadVendida debe ser mayor a 10 y menor a 999")]
         public double PrecioUnitario { get; set; }
 
         public double Total { get; set; }
